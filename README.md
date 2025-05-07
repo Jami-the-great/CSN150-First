@@ -24,7 +24,7 @@ Code Line 3
 ```
 
 #### Links 
-Link to [Youtube.com](https://Youtube.com)(https://github.com/Jami-the-great/CSN150-First/blob/9f018922f45830317a54f095e35a15b0cc2f8e22/cyber-image.jpeg)
+Link to [Youtube.com](https://Youtube.com)
 
 #### List
 - item 1
@@ -40,7 +40,6 @@ Link to [Youtube.com](https://Youtube.com)(https://github.com/Jami-the-great/CSN
 3. item 3
 
 #### Images 
-![image of girl using computer](cyber-image.jpeg)
- 
+![image of girl using computer](cyber-image.jpeg)(https://github.com/Jami-the-great/CSN150-First/blob/9f018922f45830317a54f095e35a15b0cc2f8e22/cyber-image.jpeg)
   
   
