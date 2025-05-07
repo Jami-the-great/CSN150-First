@@ -40,7 +40,7 @@ Link to [Youtube.com](https://Youtube.com)
 3. item 3
 
 #### Images 
-![image of girl using computer]
+![image of girl using computer](cyber-image.jpeg)
  
   
   
