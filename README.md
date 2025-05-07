@@ -31,16 +31,16 @@ Link to [Youtube.com](https://Youtube.com)
 - item 2
 - item 3
 
- * item 1
- * item 2
- * item 3
+* item 1
+* item 2
+* item 3
 
 1. item 1
 2. item 2
 3. item 3
 
 #### Images 
-
+![image of girl using computer]
  
   
   
